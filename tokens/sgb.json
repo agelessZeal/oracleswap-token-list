@@ -1,16 +1,24 @@
 [
   {
-    "name": "Wrapped Songbird",
-    "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
-    "symbol": "WSGB",
+    "name": "OracleSwap.io",
+    "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
+    "symbol": "ORACLE",
     "decimals": 18,
     "chainId": 19,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
   },
   {
-    "name": "Experimental Finance Token",
-    "address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
-    "symbol": "EXFI",
+    "name": "OracleFoundry",
+    "address": "0x5795377c85e0fdf6370fae1b74fe03b930c4a892",
+    "symbol": "xORACLE",
+    "decimals": 18,
+    "chainId": 19,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+  },
+  {
+    "name": "Wrapped Songbird",
+    "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+    "symbol": "WSGB",
     "decimals": 18,
     "chainId": 19,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
@@ -40,32 +48,24 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
   },
   {
-    "name": "Best FTSO NFT Points",
-    "address": "0x3B46090e608cBC963356f30857F4DAcC09f5DDC4",
-    "symbol": "NFTP",
+    "name": "Honey Stick",
+    "address": "0x9dC8639bff70B019088f0b7D960561654269B5BE",
+    "symbol": "HS",
     "decimals": 18,
     "chainId": 19,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
   },
   {
-    "name": "dFLR",
-    "address": "0x6f1Be01f9cD0c14E38f94E81Cb281ecB98Cc6A9b",
-    "symbol": "dFLR",
-    "decimals": 18,
-    "chainId": 19,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
-  },
-  {
-    "name": "TST",
-    "address": "0xFe380b20AaeFbd9268EECD8090eEecc336aD8EF4",
-    "symbol": "TST",
+    "name": "CootieCoin",
+    "address": "0xe4671844Fcb3cA9A80A1224B6f9A0A6c2Ba2a7d5",
+    "symbol": "COOT",
     "decimals": 18,
     "chainId": 19,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
   },
   {
     "name": "Experimental Finance Token",
-    "address": "0x72D932019AE098A6368E6676E16169D112E7720A",
+    "address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
     "symbol": "EXFI",
     "decimals": 18,
     "chainId": 19,
