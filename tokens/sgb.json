@@ -70,5 +70,21 @@
     "decimals": 18,
     "chainId": 19,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+  },
+  {
+    "name": "Prophet",
+    "address": "0xf810576A68C3731875BDe07404BE815b16fC0B4e",
+    "symbol": "PRO",
+    "decimals": 18,
+    "chainId": 19,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+  },
+  {
+    "name": "DoodCatsToken",
+    "address": "0x612c20D14493dC6a389603aEF56006AD6a09A76f",
+    "symbol": "DOOD",
+    "decimals": 18,
+    "chainId": 19,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
   }
  ]

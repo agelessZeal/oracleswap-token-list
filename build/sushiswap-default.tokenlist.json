@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-05-04T18:37:32.559Z",
+  "timestamp": "2022-06-05T13:58:53.012Z",
   "version": {
     "major": 23,
     "minor": 14,
@@ -3787,6 +3787,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
     },
     {
+      "name": "DoodCatsToken",
+      "address": "0x612c20D14493dC6a389603aEF56006AD6a09A76f",
+      "symbol": "DOOD",
+      "decimals": 18,
+      "chainId": 19,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+    },
+    {
       "name": "Experimental Finance Token",
       "address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
       "symbol": "EXFI",
@@ -3806,6 +3814,14 @@
       "name": "OracleSwap.io",
       "address": "0xd7565b16b65376e2ddb6c71e7971c7185a7ff3ff",
       "symbol": "ORACLE",
+      "decimals": 18,
+      "chainId": 19,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+    },
+    {
+      "name": "Prophet",
+      "address": "0xf810576A68C3731875BDe07404BE815b16fC0B4e",
+      "symbol": "PRO",
       "decimals": 18,
       "chainId": 19,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
